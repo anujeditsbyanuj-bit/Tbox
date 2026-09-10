@@ -14,13 +14,13 @@ from telegram.constants import ParseMode
 from telethon import TelegramClient
 
 # ─── CONFIG ───────────────────────────────────────────────────────────────────
-BOT_TOKEN  = "8725658992:AAGMoq1Y0IFZL39mjKJGRJ5fOtCjfrMFcwo"
+BOT_TOKEN  = "8986691330:AAHJseGyF3MxFF-Y2U531vHjncrLuJy3yTg"
 API_URL    = "https://flowvideoplayer.com/search/video"
 SITE_URL   = "https://flowvideoplayer.com"
 
 # MTProto credentials + the bot token reused for MTProto login
-API_ID     = 33197883
-API_HASH   = "681958d891ced37a4534df9490e4fe2c"
+API_ID     = 33029767
+API_HASH   = "5d897bed11bc8b062a12f6c1c3c5360a"
 
 # Bot API hard limit for URL-fetch sends is 50 MB. Above this we must
 # download on the server and re-upload via MTProto (supports up to ~2 GB).
